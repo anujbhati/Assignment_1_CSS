@@ -1,0 +1,45 @@
+body {
+    background-image: url("wooden.jpg");
+    
+    background-position: center;
+    
+}
+ ul.navbar {
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    width: 12% }
+ul.navbar li {
+    background: rgba(2, 240, 0, 0.6);
+    margin: 9% 3%;
+    padding: 8%;
+    border-left: 20px solid gray;
+    border-right: 20px solid gray; }
+ul.navbar a {
+     font-family: arial;
+     text-decoration: underline 
+    }
+a:link 
+{
+    color: purple }
+  a:visited 
+{
+    color: black }
+a:hover {
+  color: red;
+  position: relative;
+}
+p{text-align: center;
+   font-family:veranda;}
+	h1
+   {
+text-align:center;
+   }
+h2
+   {
+text-align:center;
+   }
+form { 
+margin: 0 auto; 
+width:250px;
+}

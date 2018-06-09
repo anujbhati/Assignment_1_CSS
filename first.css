@@ -1,0 +1,45 @@
+body {
+    background-image: url("Gray.jpg");
+    
+    background-position: center;
+    
+}
+ ul.navbar {
+    position: absolute;
+    top: 30%;
+    left: 8%;
+    width: 12% }
+ul.navbar li {
+    background: rgba(250, 0, 0, 0.6);
+    margin: 13% 3%;
+    padding: 8%;
+    border-left: 20px solid black; 
+}
+ul.navbar a {
+     font-family: verdana;
+     text-decoration: none 
+    }
+a:link 
+{
+    color: white }
+a:visited 
+{
+    color: purple }	
+a:hover 
+  {
+  color: green;
+  position: relative;
+}
+
+	h1
+   {
+text-align:center;
+   }
+h2
+   {
+text-align:center;
+   }
+   form { 
+margin: 0 auto; 
+width:250px;
+}
